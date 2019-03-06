@@ -1,0 +1,7 @@
+D:\Shilpi\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.Tests.dll
+D:\Shilpi\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.Tests.pdb
+D:\Shilpi\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.Library.dll
+D:\Shilpi\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.Library.pdb
+D:\Shilpi\ShoppingCart\ShoppingCart.Tests\obj\Debug\ShoppingCart.Tests.csprojResolveAssemblyReference.cache
+D:\Shilpi\ShoppingCart\ShoppingCart.Tests\obj\Debug\ShoppingCart.Tests.dll
+D:\Shilpi\ShoppingCart\ShoppingCart.Tests\obj\Debug\ShoppingCart.Tests.pdb

@@ -1,0 +1,5 @@
+D:\Shilpi\ShoppingCart\ShoppingCart.Library\bin\Debug\ShoppingCart.Library.dll
+D:\Shilpi\ShoppingCart\ShoppingCart.Library\bin\Debug\ShoppingCart.Library.pdb
+D:\Shilpi\ShoppingCart\ShoppingCart.Library\obj\Debug\ShoppingCart.Library.csprojResolveAssemblyReference.cache
+D:\Shilpi\ShoppingCart\ShoppingCart.Library\obj\Debug\ShoppingCart.Library.dll
+D:\Shilpi\ShoppingCart\ShoppingCart.Library\obj\Debug\ShoppingCart.Library.pdb
